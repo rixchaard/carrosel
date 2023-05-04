@@ -1,0 +1,18 @@
+*{
+margin: 0 auto;
+padding: 0;
+box-sizing: border-box;
+}
+
+.wrapper{
+    margin: auto;
+    width: 90%;
+    max-width: 1440px;
+}
+
+.item {
+    height: 350px;
+    border: 0px solid red;
+    margin: 250px 30px;
+
+}
